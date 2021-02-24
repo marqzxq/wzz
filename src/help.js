@@ -4,15 +4,15 @@ const help = (prefix) => {
 𝗕𝗢𝗧 𝗪𝗭𝗭
 𝗜𝗡𝗙𝗢𝗦:
 
- *O BOT SE ENCONTRA: ON-LINE*
+ O BOT SE ENCONTRA: ON-LINE
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *DONO*: marquin7
+ DONO: marquin7
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *PREFIXO*:[.]
+ PREFIXO:[.]
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *CONTATO OFC*: wa.me/5511977782073
+ CONTATO OFC: wa.me/5511977782073
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *MEU INSTA*: https://instagram.com/marquinwzz?igshid=ywanc05y0h7w
+ MEU INSTA: https://instagram.com/marquinwzz?igshid=ywanc05y0h7w
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
 
 
